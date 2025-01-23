@@ -5,7 +5,7 @@ QRCodeMaker ist eine einfache und benutzerfreundliche Java-Anwendung, mit der QR
 ## 📥 Installation
 
 ### Für macOS:
-1. Lade die `.zip`-Datei herunter.
+1. Lade die `.zip`-Datei herunter (Klicke auf sie und dann auf view raw/roh ansehen).
 2. Entpacke die `.zip`-Datei, um die App zu extrahieren.
 3. Ziehe die `.app`-Datei in den **Applications-Ordner**.
 4. Öffne die App und starte die QR-Code-Generierung.
